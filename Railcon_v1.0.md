@@ -5,7 +5,7 @@ Sidhanth Sanil
 Seshasai Arvind
 Harika Chowdary
 
-
+(Edited)->Arvind 
 Design
 Scanning using sensor: (train no, and location mapped)
 Passengers data 
