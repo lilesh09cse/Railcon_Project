@@ -15,4 +15,11 @@ Internet connectivity
 Android phone
 Railway guards with a special device having a sensor.
 
+Model : Incremental Model
+Why? 
+Big project
+Divide it in modules
+Evolved in the future.
+
+
 
