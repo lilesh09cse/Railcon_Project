@@ -15,6 +15,11 @@ Internet connectivity
 Android phone
 Railway guards with a special device having a sensor.
 
+Model : Incremental Model
+Why? 
+Big project
+Divide it in modules
+Evolved in the future. 
 
 Coding:
 Use Dart and Flutter framework for development.
@@ -26,11 +31,7 @@ Phase 2: 10 trains on different routes: long distance.
 Phase 3: multiple random trains.
 
 
-Model : Incremental Model
-Why? 
-Big project
-Divide it in modules
-Evolved in the future.
+
 
 
 
