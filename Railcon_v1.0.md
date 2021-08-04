@@ -21,6 +21,8 @@ Big project
 Divide it in modules
 Evolved in the future. 
 
+![design](https://github.com/lilesh09cse/Railcon_Project/blob/main/Untitled%20presentation.jpg)
+
 Coding:
 Use Dart and Flutter framework for development.
 For databases, we use FIREBASE Cloud.
